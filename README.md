@@ -7,6 +7,7 @@ Random facial war paints that has nothing to do with CONTROL, but warpaints are 
 2) Unzip the folder then pick the warpaints you want to apply, and copy and paste `data_pc` into your Control game folder.
 
 `C:\Epic Games\Control`
+
 `C:\SteamLibrary\steamapps\common\Control`
 
 Boot up the game, and the retexture should be applied.
@@ -16,11 +17,13 @@ Boot up the game, and the retexture should be applied.
 1) Go to where you installed the mod either C: or D: or wherever you have your game installed.
 
 Example: `C:\Epic Games\Control\data_pc`
+
 Example: `C:\SteamLibrary\steamapps\common\Control\data_pc`
 
 2) Delete the following:
 
 **FACE**
+
 `data_pc\textures\characters\andro\heads\courtney_hope\courtney_hope_face_d.tex`
 `data_pc\textures\characters\andro\heads\courtney_hope\courtney_hope_face_n.dds`
 
